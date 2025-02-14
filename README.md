@@ -23,9 +23,9 @@
 查詢、發布、編輯、刪除部落格
 
 ##影片連結
-###電腦版
+### 電腦版
 [![影片標題]()](https://www.youtube.com/watch?v=q9XTz_5lejw&t=5746)
-###手機版
+### 手機版
 (https://www.youtube.com/watch?v=q9XTz_5lejw&t=5842)
 
 ## 其他
