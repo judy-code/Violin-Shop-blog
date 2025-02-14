@@ -11,10 +11,14 @@
 
 
 ## 使用技術
-前端：HTML5、CSS3、Bootstrap、RWD、Javascript、React。/n
-後端：Node.js、express.js、php。
-資料庫、版本控制：Mysql、Git、GitHub。
-設計：Figma。
+### 前端
+HTML5、CSS3、Bootstrap、RWD、Javascript、React
+### 後端
+Node.js、express.js、php
+### 資料庫、版本控制
+Mysql、Git、GitHub
+### 設計
+Figma
 
 ## 部落格功能介紹
 ### 頁面
