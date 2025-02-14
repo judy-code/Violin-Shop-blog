@@ -21,7 +21,12 @@
 部落格列表、我的部落格列表、部落格詳細頁、發布部落格頁、編輯部落格頁、Loading動畫
 ### 功能
 查詢、發布、編輯、刪除部落格
-[從 1:37:22 開始觀看](https://www.youtube.com/watch?v=q9XTz_5lejw&t=5842)
+
+##影片連結
+###電腦版
+[![影片標題]()](https://www.youtube.com/watch?v=q9XTz_5lejw&t=5746)
+###手機版
+(https://www.youtube.com/watch?v=q9XTz_5lejw&t=5842)
 
 ## 其他
 --詳見企劃書--
