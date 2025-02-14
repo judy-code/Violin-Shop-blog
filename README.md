@@ -29,9 +29,7 @@ Figma
 
 ## 影片連結
 ### 電腦版
-[![影片標題](https://raw.githubusercontent.com/judy-code/codepenPic/main/desktop.png)]()
-### 手機版
-[![影片標題](https://raw.githubusercontent.com/judy-code/codepenPic/main/phone.png)]()
+[![影片標題](https://raw.githubusercontent.com/judy-code/codepenPic/main/desktop.png)](https://youtu.be/NUbbdz-VLto)
 
 ## 其他
 --詳見 帕格尼尼_企劃書.pdf --
