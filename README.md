@@ -28,7 +28,9 @@ Figma
 
 ## 影片連結
 ### 電腦版
-[![影片標題](https://raw.githubusercontent.com/judy-code/codepenPic/main/desktop.png)](https://www.youtube.com/watch?v=q9XTz_5lejw&t=5746) ### 手機版 [![影片標題](https://raw.githubusercontent.com/judy-code/codepenPic/main/phone.png)](https://www.youtube.com/watch?v=q9XTz_5lejw&t=5746)
+[![影片標題](https://raw.githubusercontent.com/judy-code/codepenPic/main/desktop.png)]()
+### 手機版
+[![影片標題](https://raw.githubusercontent.com/judy-code/codepenPic/main/phone.png)]()
 
 ## 其他
 --詳見企劃書--
