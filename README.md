@@ -34,4 +34,4 @@ Figma
 [![影片標題](https://raw.githubusercontent.com/judy-code/codepenPic/main/phone.png)]()
 
 ## 其他
---詳見企劃書--
+--詳見 帕格尼尼_企劃書.pdf --
